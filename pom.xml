@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.matthewbretten</groupId>
     <artifactId>example-json-test-data-generator</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.5</version>
     <packaging>jar</packaging>
     <name>example-json-test-com.github.matthewbretten.data-generator</name>
     <description>Example json test com.github.matthewbretten.data generator project</description>
@@ -12,7 +12,7 @@
         <url>https://github.com/matthewbretten/example-json-test-data-generator</url>
         <connection>scm:git:https://github.com/matthewbretten/example-json-test-data-generator.git</connection>
         <developerConnection>scm:git:https://github.com/matthewbretten/example-json-test-data-generator.git</developerConnection>
-        <tag>1.0.1</tag>
+        <tag>1.0.2</tag>
     </scm>
 
     <properties>
